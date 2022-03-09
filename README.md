@@ -1,4 +1,11 @@
-# TensorFlowProjects
+# TensorFlow Projects
+This repo outlines my journey of self-teaching TensorFlow!
 
-#Saved Model and datasets
-https://drive.google.com/drive/folders/1yZxgpyP-4LQM6kAHD_vanfmfu3sEMnMV?usp=sharing
+Below are various projects that I have worked on in order to learn various modelling techniques.
+
+Some techniques include:
+- Multiclass, Multilabel, Binary Classification
+- Convolutional Modelling
+- Transfer Learning
+- Natural Language Processing
+- Time Forcasting
